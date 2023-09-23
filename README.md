@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Dudhat
 - 👀 I’m interested in Data analytics and Software development
-- 🌱 I’m currently learning data science and eeconomics
+- 🌱 I’m currently learning data science and economics
 - 📫 How to reach me vv405080@dal.ca
 
 <!---
