@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vivek Dudhat
-- 👀 I’m interested in Data Science and Financila Analysis
+- 👀 I’m interested in Data Science and Financial Analysis
 - 💻 Project - CrowdVenture, Canadian Housing Forecast Model
 - 📫 How to reach me vv405080@dal.ca
